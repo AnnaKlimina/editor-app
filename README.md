@@ -1,24 +1,12 @@
 # editor-app
 
-## Project setup
+Данный проект - редактор параметров нейросети. На выходе пользователю представляются данные в формате JSON.
+Для запуска требуется скачать проект и запустить следующие команды:
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
+npm start
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
